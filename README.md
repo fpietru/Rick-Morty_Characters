@@ -25,13 +25,19 @@ To run this project locally, follow these steps:
    git clone https://github.com/fpietru/Rick-Morty_Characters.git
    ```
 
-2. **Install dependencies**:
+2. **Navigate to the project directory**:
+
+   ```bash
+   cd Rick-Morty_Characters
+   ```
+
+3. **Install dependencies**:
 
    ```bash
    npm install
    ```
 
-3. **Start the development server**:
+4. **Start the development server**:
 
    ```bash
    npm run dev
@@ -43,6 +49,7 @@ To run this project locally, follow these steps:
 
 - **Browsing Characters**: Upon loading the application, you'll see a list of characters from the "Rick and Morty" series.
 - **Viewing Details**: Click on a character to view more detailed information about them.
+
 
 ## License
 
